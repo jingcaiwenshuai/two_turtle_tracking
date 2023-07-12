@@ -1,0 +1,2 @@
+step1_new_turtle:step2_pub_turtlestamp:step3_control_turtle2
+-DCATKIN_DEVEL_PREFIX=/home/lws/two_turtle_tracking/devel -DCMAKE_INSTALL_PREFIX=/home/lws/two_turtle_tracking/install -G Unix Makefiles

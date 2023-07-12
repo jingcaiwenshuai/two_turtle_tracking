@@ -1,0 +1,8 @@
+prefix=/home/lws/two_turtle_tracking/install
+
+Name: step2_pub_turtleStamp
+Description: Description of step2_pub_turtleStamp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

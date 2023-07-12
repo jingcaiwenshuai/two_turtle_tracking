@@ -1,0 +1,8 @@
+prefix=/home/lws/two_turtle_tracking/devel
+
+Name: step1_new_turtle
+Description: Description of step1_new_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
